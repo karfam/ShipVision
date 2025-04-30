@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "InDj/E3EPXw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karth\\OneDrive\\CursorRepos\\ShipVision\\ShipVision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karth\\.nuget\\packages\\microsoft.web.webview2\\1.0.3179.45\\microsoft.web.webview2.1.0.3179.45.nupkg.sha512"
+  ],
+  "logs": []
+}
